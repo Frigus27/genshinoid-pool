@@ -6,7 +6,6 @@
 #include <vector>
 #include <random>
 #include <cmath>
-#include <map>
 #include <iostream>
 
 namespace Genshinoid {
@@ -16,7 +15,6 @@ namespace Genshinoid {
     using std::mt19937;
     using std::uniform_int_distribution;
     using std::random_device;
-    using std::map;
     using std::max;
 
     enum class ItemLevel {
